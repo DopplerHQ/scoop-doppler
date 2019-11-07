@@ -1,0 +1,15 @@
+{
+    "version": "0.0.8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/DopplerHQ/cli/releases/download/v0.0.8/cli_0.0.8_Windows_x86_64.tar.gz",
+            "bin": [
+                "doppler.exe"
+            ],
+            "hash": "5862ee4b21b579e916506a873509bcdad50febe7e12a5517fff2b4d340c14044"
+        }
+    },
+    "homepage": "https://doppler.com",
+    "license": "Apache-2.0",
+    "description": "The official Doppler CLI for managing your secrets and config"
+}
