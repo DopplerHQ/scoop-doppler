@@ -1,8 +1,8 @@
-# Doppler scoop bucket
+# Doppler scoop CLI
 
 ## Install
 
 ```
-scoop bucket add doppler https://github.com/DopplerHQ/scoop-bucket.git
+scoop bucket add doppler https://github.com/DopplerHQ/scoop-cli.git
 scoop install doppler/cli
 ```
