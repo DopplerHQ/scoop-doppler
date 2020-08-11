@@ -1,15 +1,15 @@
 {
-    "version": "3.9.1",
+    "version": "3.9.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/DopplerHQ/cli/releases/download/3.9.1/doppler_3.9.1_windows_amd64.zip",
+            "url": "https://github.com/DopplerHQ/cli/releases/download/3.9.2/doppler_3.9.2_windows_amd64.zip",
             "bin": [
                 "doppler.exe"
             ],
-            "hash": "ee5ff8b37b69a6e56eede84da0732af56e5ffaa2f9fa7670fbc09588cfc02d54"
+            "hash": "01947ddee93cbbdcf3f19f9fcb724d1fb7096b083f75425bf3c153a661b65295"
         }
     },
     "homepage": "https://doppler.com",
     "license": "Apache-2.0",
-    "description": "The official Doppler CLI for managing your secrets and config"
+    "description": "The official Doppler CLI for managing your Enclave secrets"
 }
