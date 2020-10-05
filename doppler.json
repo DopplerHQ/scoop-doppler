@@ -1,12 +1,12 @@
 {
-    "version": "3.14.0",
+    "version": "3.14.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/DopplerHQ/cli/releases/download/3.14.0/doppler_3.14.0_windows_amd64.zip",
+            "url": "https://github.com/DopplerHQ/cli/releases/download/3.14.1/doppler_3.14.1_windows_amd64.zip",
             "bin": [
                 "doppler.exe"
             ],
-            "hash": "0f9932a5a3bff00b61862393895f43c85571cffddc7ae649db8ad1bd7e0f5fbc"
+            "hash": "c0f5f9cf38574dffd30912cb7d228a37ebbf8fe8e7a4110267e524dc5bfe37e4"
         }
     },
     "homepage": "https://doppler.com",
